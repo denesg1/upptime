@@ -8,6 +8,7 @@ status-website: # Status website (optional)
   theme: dark
   introTitle: "DA stasuses powered by Uptime.js.org tool"
   introMessage: "This is an intro message"
+  baseUrl: /upptime
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
