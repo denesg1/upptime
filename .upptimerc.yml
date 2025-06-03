@@ -1,9 +1,11 @@
-owner: koj-co # GitHub username
+owner: denesg1 # GitHub username
 repo: upptime # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
+  - name: DA website
+    url: https://digitalarcher.dev
 status-website: # Status website (optional)
-  name: Upptime # Status website title
+  name: DA statuses # Status website title
+  theme: dark
+  introTitle: "DA stasuses powered by Uptime.js.org tool"
+  introMessage: "This is an intro message"
+  
