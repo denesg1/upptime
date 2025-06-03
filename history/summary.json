@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "DA website",
+    "url": "https://digitalarcher.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/digitalarcher.dev.ico",
+    "slug": "da-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 82,
-    "timeWeek": 97,
-    "timeMonth": 116,
-    "timeYear": 110,
+    "time": 1109,
+    "timeDay": 1109,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   }
 ]
